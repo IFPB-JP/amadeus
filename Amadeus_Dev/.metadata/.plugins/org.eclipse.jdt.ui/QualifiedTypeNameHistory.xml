@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="edu.uci.ics.jung.algorithms.importance.BetweennessCentrality"/>
+<fullyQualifiedTypeName name="edu.uci.ics.jung.graph.DirectedSparseMultigraph"/>
+<fullyQualifiedTypeName name="edu.uci.ics.jung.graph.DirectedSparseGraph"/>
+<fullyQualifiedTypeName name="edu.uci.ics.jung.graph.util.EdgeType"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="javax.rmi.CORBA.Util"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+</qualifiedTypeNameHistroy>

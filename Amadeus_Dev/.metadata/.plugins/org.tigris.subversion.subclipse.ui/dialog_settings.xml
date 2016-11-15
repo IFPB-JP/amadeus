@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="512" key="SetSvnPropertyDialog.size.y"/>
+	<item value="564" key="passwordStores.size.y"/>
+	<item value="42" key="SetSvnPropertyDialog.location.y"/>
+	<item value="556" key="passwordStores.size.x"/>
+	<item value="703" key="UpdateDialogWithConflictHandling.size.y"/>
+	<item value="22" key="passwordStores.location.y"/>
+	<item value="525" key="UpdateDialogWithConflictHandling.size.x"/>
+	<item value="409" key="passwordStores.location.x"/>
+	<item value="525" key="SetSvnPropertyDialog.size.x"/>
+	<item value="22" key="UpdateDialogWithConflictHandling.location.y"/>
+	<item value="378" key="UpdateDialogWithConflictHandling.location.x"/>
+	<item value="378" key="SetSvnPropertyDialog.location.x"/>
+</section>

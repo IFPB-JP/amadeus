@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<web>
+	<system>
+		<general.version>00.96.60</general.version>
+    	<general.language>Português-Brasil</general.language>
+    	<general.encoding>UTF-8</general.encoding>
+    	<general.themes>default</general.themes>
+    	<general.domain>localhost:8080/amadeuslms</general.domain>
+    </system>
+    <mailsender>
+    	<mail.description>Conta de e-mail padrão</mail.description>
+    	<mail.from>exemploamadeus@gmail.com</mail.from>
+    	<mail.password>amadeus2012!</mail.password>
+    	<mail.smtp.host>smtp.gmail.com</mail.smtp.host>
+    	<mail.smtp.auth>true</mail.smtp.auth>
+    	<mail.debug>false</mail.debug>
+    	<mail.smtp.port>465</mail.smtp.port>
+    	<mail.smtp.socketFactory.port>465</mail.smtp.socketFactory.port>
+    	<mail.smtp.socketFactory.class>javax.net.ssl.SSLSocketFactory</mail.smtp.socketFactory.class>
+    	<mail.smtp.socketFactory.fallback>false</mail.smtp.socketFactory.fallback>
+    	<mail.smtp.ssl.enable>true</mail.smtp.ssl.enable>
+    	<mail.smtp.starttls.enable>false</mail.smtp.starttls.enable>
+		<mail.smtp.starttls.required>false</mail.smtp.starttls.required>
+    </mailsender>
+    <bug>
+    	<report.to>exemploamadeus@gmail.com</report.to>
+    </bug>
+    <security>
+    	<cryptography>
+    		<key>EAlGeEen3/m8/YkO</key>
+    	</cryptography>
+    	<autoSigning>true</autoSigning>
+    </security>
+</web>
